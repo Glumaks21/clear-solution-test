@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: practise-test
+  datasource:
+    username: root
+    password: root
+  mvc:
+    problemdetails:
+      enabled: true
+
+user:
+  age: 18
